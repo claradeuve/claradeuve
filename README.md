@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @claradeuve
-- 👀 I’m interested in chatbots and NLP
-- 🌱 I’m currently learning Python & Data Science
-- 💞️ I’m looking to collaborate on conversational applications
-- 📫 How to reach me claradvillegas@gmail.com
+👋 Hi, I’m @claradeuve
+👀 Linguist passionate about chatbots and NLP
+🌱 Currently learning Python & Data Science
+💞️ Would be thrilled to collaborate on conversational applications
+📫 claradvillegas@gmail.com
 
 <!---
 claradeuve/claradeuve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
