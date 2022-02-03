@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @claradeuve
-- 👀 Linguist passionate about chatbots and NLP
+- 👀 Linguist & chatbots and NLP enthusiast
 - 🌱 Currently learning Python & Data Science
 - 💞️ Would be thrilled to collaborate on conversational applications
 - 📫 claradvillegas@gmail.com
